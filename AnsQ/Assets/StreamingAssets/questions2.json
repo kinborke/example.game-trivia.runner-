@@ -1,0 +1,13 @@
+{
+  "questions": [
+    {
+      "no": "1",
+      "question": "WHICH ONE IS THE BIGGEST",
+      "options": [
+        "WHALES",
+        "FISH"
+      ],
+      "answer": "0"
+    }
+  ]
+}
