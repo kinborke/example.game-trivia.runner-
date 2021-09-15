@@ -1,0 +1,36 @@
+{
+  "questions": [
+    
+    {
+      "no": 1,
+      "question": "WHICH ONE IS THE BIGGEST",
+      "options": [ "WHALES", "FISH" ],
+      "answer": 0
+    },
+    {
+      "no": 2,
+      "question": "WHICH ONE IS THE SMALLEST",
+      "options": [ "ANT", "CAT" ],
+      "answer": 0
+    },
+    {
+      "no": 3,
+      "question": "WHICH ONE IS THE MORE TERRIBLE",
+      "options": [ "LION", "BİRD" ],
+      "answer": 0
+    },
+    {
+      "no": 4,
+      "question": "WHICH ONE IS THE SWEETEST",
+      "options": [ "DOG", "FROGS" ],
+      "answer": 0
+    }
+    {
+      "no": 5,
+      "question": "WHICH ONE IS THE OLDER",
+      "options": [ "PELE", "MESSI" ],
+      "answer": 0
+    }
+  ]
+}
+
